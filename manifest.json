@@ -2,14 +2,11 @@
     "manifest_version": 2,
 
     "name": "Hide Downloads Bar Shortcut",
-    "description": "Assign shortcut (defaults to Cmd+W) to hide downloads bar",
-    "version": "1.0",
+    "description": "Add possibiliy to assign shortcut to hide downloads bar",
+    "version": "0.0.1",
 
     "commands": {
         "hide-downloads-bar": {
-            "suggested_key": {
-                "default": "Ctrl+J"
-            },
             "description": "Hide Downloads Bar"
         }
     },
